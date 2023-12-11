@@ -150,6 +150,9 @@ footer {
   .rating-scale {
     max-width: 100%;
   }
+  .btn-send-rating {
+    width: 100%;
+  }
 }
 
 .hidden {
